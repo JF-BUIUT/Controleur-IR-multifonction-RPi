@@ -1,4 +1,4 @@
-# IR-Controller-Multifunction-Keyboard-for-Raspberry-Pi
+# IR-Controller Multifunction for Raspberry-Pi
 
 Ce code est un programme complet pour **Raspberry Pi** qui transforme l'appareil en un **contrôleur multimédia et domotique interactif**.
 
