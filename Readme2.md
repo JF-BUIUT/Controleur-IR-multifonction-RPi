@@ -1,3 +1,13 @@
+Materiel :
+- Raspberry pi
+- Ir COntrolleur
+- cable
+- card Sd
+- 
+
+
+-PiImager 
+
 
 # Install Requirements (on Linux)
 ```
