@@ -1,6 +1,6 @@
 # Contrôleur infrarouge multifonction pour Raspberry Pi
 
-Ce code est un programme complet pour **Raspberry Pi** qui transforme l'appareil en un **contrôleur multimédia et domotique interactif**.
+Ce programme transforme votre **Raspberry Pi** en un **contrôleur multimédia et domotique interactif**.
 
 Il sert principalement à afficher des informations sur un écran (connecté au Raspberry Pi) et à piloter ces affichages via deux méthodes d'entrée : une **télécommande infrarouge (IR)** ou un **clavier**.
 
