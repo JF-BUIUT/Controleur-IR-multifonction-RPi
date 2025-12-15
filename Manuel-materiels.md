@@ -48,7 +48,7 @@ Source : https://www.14core.com/datasheets-pin-outs/raspberry-pi-gpio-pinouts-di
 
 ### Étape 2.2 : Câblage du capteur IR
 
-<img width="400" height="400" alt="DH11" src="https://github.com/user-attachments/assets/ee20002e-2ee4-471d-8fbe-1b37f58bdb65" />
+<img width="400" height="400" alt="IR SENSOR" src="https://github.com/user-attachments/assets/cbb57f8a-a669-46df-b2e3-1518ec347e5c" />
 
 **VCC (+)** correspond à l'alimentation, **DATA/OUT** correspond à la sortie, **GND (-)** correspond à la masse.
 
@@ -60,4 +60,6 @@ Source : https://www.14core.com/datasheets-pin-outs/raspberry-pi-gpio-pinouts-di
 
 **GND (-)** = Pin 14 **(GND)**
 
+### **Montage final**
 
+<img width="400" height="800" alt="Diagram" src="https://github.com/user-attachments/assets/7dcd802f-1592-40c3-b669-fd65bbf3c435" />
