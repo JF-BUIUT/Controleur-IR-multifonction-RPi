@@ -1,18 +1,21 @@
-Materiel :
-- Raspberry pi
-- Ir COntrolleur
-- cable
-- card Sd
-- 
+# Configuration requise (sous Linux)
 
-
--PiImager 
-
-
-# Install Requirements (on Linux)
+## Installation
 ```
->> sudo apt update && sudo apt update
+git clone https://github.com/JF-BUIUT/IR-Controller-Multifunction-Keyboard-for-Raspberry-Pi.git
+cd IR-Controller-Multifunction-Keyboard-for-Raspberry-Pi
+sudo chmod +x requirement.sh
+sudo chmod +x autorun.sh
 ```
+Si vous obtenez l'erreur : La commande « git » n'a pas été trouvée. Vous pouvez l'installer avec 
 ```
->> sudo apt install git python3 python3-pip python python-pip
+sudo apt install git
+```
+## Exécution
+```
+sudo ./requirement.sh
+```
+Ensuite
+```
+sudo ./autorun.sh
 ```
