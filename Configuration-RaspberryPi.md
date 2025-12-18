@@ -65,7 +65,7 @@ Le programme propose :
 
 Sélectionnez le mode qui vous convient en appuyant sur la touche `Entrer` de votre clavier.
 
-**Aucun souci si vous n'avez pas de télécommande IR, utilisez votre clavier (Flèche du haut et flèche du bas) !**
+**Aucun souci si vous n'avez pas de télécommande IR, utilisez votre clavier !**
 
 # Mode Télécommande IR (Vidéo de test)
 
