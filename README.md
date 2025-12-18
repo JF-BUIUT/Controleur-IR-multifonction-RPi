@@ -34,8 +34,7 @@ Voici ses 4 fonctionnalités principales détaillées :
 * **Structure :** Le code est adaptable. Il détecte automatiquement si les bibliothèques sont installées (si `pigpio` manque, il désactive l'IR mais garde le clavier). Au démarrage, un menu vous demande quel mode de contrôle vous souhaitez utiliser.
 
 # ⚠️ DISCLAIMER ⚠️
-
-* Je vous conseille de lire le manuel matériel avant la configuration du Raspberry Pi.
+Je vous conseille de lire le manuel matériel avant la configuration du Raspberry Pi.
 
 ## ⬇️ Pour accéder au manuel des matériels utilisé ⬇️
 
