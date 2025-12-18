@@ -1,36 +1,37 @@
 # Manuel des matériels
 
 ### Matériels et logiciels utilisés :
-* Raspberry PI
+* Raspberry Pi Imager
+* Raspberry Pi 3 Model B
 * Une carte Micro SD (8-16 Go) & un adaptateur pour flasher la carte micro SD
 * Capteur DH11
 * Capteur IR (Infrarouge)
-* Télécommande
+* Télécommande NEC
 
 **⚠️ Pour ce tuto, j'ai utilisé un Raspberry Pi 3 Model B ⚠️**
 
 ## Étape 1 : Installation de L'OS
-Sur un PC rendez-vous sur le site de Raspberry et installer Raspberry Pi Imager : https://www.raspberrypi.com/software/
+Sur un PC rendez-vous sur le site de Raspberry et installez Raspberry Pi Imager : https://www.raspberrypi.com/software/
 
 <img width="600" height="400" alt="Raspberry Pi Imager" src="https://github.com/user-attachments/assets/1aa476f9-cbf8-4db9-8fd2-656743130475" />
 
 Brancher l'adaptateur ainsi que la carte SD.
 
-Sélectionner ensuite votre model de Raspberry Pi puis Raspberry Pi OS (other) ensuite sélectionner **Raspberry Pi OS FULL (32-Bit)**
+Sélectionner ensuite votre modèle de Raspberry Pi puis Raspberry Pi OS (other), ensuite sélectionner **Raspberry Pi OS FULL (32-Bit)**
 
 <img width="440" height="105" alt="Raspberry Pi Imager" src="https://github.com/user-attachments/assets/d68888e5-05c8-4d06-b585-46c4d7f4853e" />
 
-Configurer les paramètres du Raspberry et flashez le.
+Configurer les paramètres du Raspberry et flashez-le.
 
-## Étape 2 : Cablage du matériel
+## Étape 2 : Câblage du matériel
 
-**⚠️ Rappel : selon le model de Raspberry que vous avez les branchements diffère... ⚠️**
+**⚠️ Rappel : selon le modèle de Raspberry que vous avez, les branchements diffèrent... ⚠️**
 
 <img width="800" height="800" alt="RPi DataSheet Pinout" src="https://github.com/user-attachments/assets/37af9519-419b-4464-823e-22a2fc6da2f8" />
 
 Source : https://www.14core.com/datasheets-pin-outs/raspberry-pi-gpio-pinouts-diagram/
 
-**⚠️ Vous pouvez directement voir le datasheet du modèle de votre Raspberry Pi en tapant **"pinout"** dans le terminal ⚠️**
+**⚠️ Vous pouvez directement voir le datasheet du modèle de votre Raspberry Pi en tapant `pinout` dans le terminal ⚠️**
 
 ### Étape 2.1 : Câblage du capteur DH11 
 
