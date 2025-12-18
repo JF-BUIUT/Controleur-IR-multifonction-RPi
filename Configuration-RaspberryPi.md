@@ -30,7 +30,7 @@ pip3 install bleak Pillow pygame pigpio
 
 ### Étape (4/4) Configuration de la télécommande
 ```
-python3 IRCODENEC.py
+python3 IRNECCODE.py
 ```
 Vous avez la possibilité d'utiliser n'importe quelle télécommande NEC.
 
